@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/TankBattle.dir/src/Bullet.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/Bullet.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/BulletFactory.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/BulletFactory.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/Game.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/Game.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/GameManager.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/GameManager.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/HealthBar.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/HealthBar.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/MachineGun.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/MachineGun.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/Maze.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/Maze.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/Missile.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/Missile.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/MoveDownCommand.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/MoveDownCommand.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/MoveUpCommand.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/MoveUpCommand.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/RotateLeftCommand.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/RotateLeftCommand.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/RotateRightCommand.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/RotateRightCommand.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/Shoot1Command.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/Shoot1Command.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/Shoot2Command.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/Shoot2Command.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/Tank.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/Tank.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/Wall.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/Wall.cpp.o.d"
+  "CMakeFiles/TankBattle.dir/src/main.cpp.o"
+  "CMakeFiles/TankBattle.dir/src/main.cpp.o.d"
+  "TankBattle"
+  "TankBattle.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/TankBattle.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

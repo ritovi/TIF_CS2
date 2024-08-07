@@ -1,0 +1,3 @@
+/home/alberjo/Documents/TankBattle/build/CMakeFiles/TankBattle.dir
+/home/alberjo/Documents/TankBattle/build/CMakeFiles/edit_cache.dir
+/home/alberjo/Documents/TankBattle/build/CMakeFiles/rebuild_cache.dir
